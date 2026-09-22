@@ -1,1 +1,1 @@
-# Boxkillimage-text-extraction-merge-SKILL.md
+# Boxkill
