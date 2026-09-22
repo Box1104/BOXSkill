@@ -32,7 +32,7 @@ Core tasks:
 
 ---
 
-##2. Supported Inputs
+## 2. Supported Inputs
 
 Support:
 
@@ -64,7 +64,7 @@ Support:
 
 ---
 
-## three. Core Workflow
+## 3. Core Workflow
 
 ### Step 1 — Inspect All Images
 
@@ -194,7 +194,7 @@ You can keep the original text and mark it:
 
 ---
 
-## four. Duplicate Detection
+## 4. Duplicate Detection
 
 This is the core function of this Skill.
 
@@ -274,7 +274,7 @@ All should be reserved.
 
 ---
 
-## five. Merge Rules
+## 5. Merge Rules
 
 Follow the following priorities when merging text:
 
@@ -312,7 +312,7 @@ But don't make a literary rewriting.
 
 ---
 
-## six. Ordering
+## 6. Ordering
 
 If there is a sequential relationship between the content of multiple pictures, it should be restored to a reasonable order.
 
@@ -338,7 +338,7 @@ And give the most reasonable arrangement.
 
 ---
 
-## Seven. Preserve Important Elements
+## 7. Preserve Important Elements
 
 In principle, the following contents must be retained:
 
@@ -436,7 +436,7 @@ Unless the user explicitly requires all withdrawals.
 
 ---
 
-## nine. Output Modes
+## 9. Output Modes
 
 Default output:
 
@@ -470,7 +470,7 @@ The original extracted text...
 
 ---
 
-## ten. Formatting
+## 10. Formatting
 
 The final copy should:
 
@@ -504,7 +504,7 @@ Unless required by the user.
 
 ---
 
-## eleven Important principle
+## 11. Important principle
 
 ### Extract first, edit second.
 
@@ -524,7 +524,7 @@ Do not rewrite the original text directly at the identification stage.
 
 ---
 
-##12. Do not hallucinate
+## 12. Do not hallucinate
 
 If there is no text in the picture, do not rewrite it by yourself.
 
@@ -560,7 +560,7 @@ Don't take guessing as certainty.
 
 ---
 
-## fourteen. Deduplication Algorithm
+## 14. Deduplication Algorithm
 
 Conceptual processing process:
 
